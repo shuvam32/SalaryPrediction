@@ -1,0 +1,156 @@
+{
+    "title": {
+      "media": {
+        "url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204213538/How-to-Become-Data-Scientist.png",
+        "caption": "A roadmap for Data Science", 
+        "credit": "Source: Example.com"
+      },
+      "text": {
+        "headline": "Data Science Roadmap",
+        "text": "Embark on your data science journey with these ten essential steps."
+      }
+    },
+    "events": [
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "1"
+        },
+        "media": {
+          "url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201204170056/4-Key-Pillars-of-Data-Science.png",
+          "caption": "Fundamentals of Data Science"
+        },
+        "text": {
+          "headline": "Learn Fundamentals of Data Science",
+          "text": "https://www.javatpoint.com/data-science"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "2"
+        },
+        "media": {
+          "url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230318225814/ML-Tutorial.jpg",
+          "caption": "Machine Learning"
+        },
+        "text": {
+          "headline": "Dive into Machine Learning",
+          "text": "Delve into machine learning techniques such as supervised and unsupervised learning, regression, classification, clustering, and dimensionality reduction."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "3"
+        },
+        "media": {
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20230410171843/PythonDataWranglingcompressed1-(1).webp",
+          "caption": "Data Wrangling"
+        },
+        "text": {
+          "headline": "Master Data Wrangling and Preprocessing",
+          "text": "Learn how to handle missing values, outliers, and inconsistencies in datasets. Practice data preprocessing techniques such as normalization, scaling, feature engineering, and handling categorical variables."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "4"
+        },
+        "media": {
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20231012152737/Data-Analytics.png",
+          "caption": "Advanced Analytics"
+        },
+        "text": {
+          "headline": "Develop Advanced Analytical Skills",
+          "text": "Explore advanced analytical methods like time series analysis, natural language processing (NLP), and reinforcement learning."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "5"
+        },
+        "media": {
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20221228120316/download-(3).png",
+          "caption": "Model Evaluation"
+        },
+        "text": {
+          "headline": "Experiment with Model Evaluation and Optimization",
+          "text": "Learn how to evaluate the performance of machine learning models using metrics like accuracy, precision, recall, and F1-score."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "6"
+        },
+        "media": {
+          "url": "https://media.licdn.com/dms/image/D4E12AQHcy0YU988VgQ/article-cover_image-shrink_720_1280/0/1687751001547?e=1713398400&v=beta&t=O2_qprfMrw1TxeeuJ1zeZVOExmbM8ZjBubeWz6eOJPE",
+          "caption": "Practical Experience"
+        },
+        "text": {
+          "headline": "Gain Practical Experience with Projects",
+          "text": "Engage in hands-on projects that involve real-world datasets and problems."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "7"
+        },
+        "media": {
+          "url": "https://cionews.co.in/wp-content/uploads/2022/06/Emerging-Technologies.jpg",
+          "caption": "Emerging Technologies"
+        },
+        "text": {
+          "headline": "Stay Updated with Emerging Technologies",
+          "text": "Stay abreast of the latest advancements in data science and related fields such as artificial intelligence, machine learning, and big data technologies."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "8"
+        },
+        "media": {
+          "url": "https://lectera.com/info/storage/img/20210804/cfa26ad244794b605187_808xFull.jpg",
+          "caption": "Networking"
+        },
+        "text": {
+          "headline": "Collaborate and Network with Peers",
+          "text": "Join data science communities, forums, and social media groups to interact with fellow professionals and enthusiasts."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "9"
+        },
+        "media": {
+          "url": "https://learnbay.weebly.com/uploads/9/4/3/3/94336191/domain-knowledge-in-data-science_orig.jpg",
+          "caption": "Domain Knowledge"
+        },
+        "text": {
+          "headline": "Specialize in Domain Knowledge",
+          "text": "Deepen your understanding of specific domains such as healthcare, finance, marketing, or cybersecurity."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2024",
+          "month": "10"
+        },
+        "media": {
+          "url": "https://www.insperity.com/wp-content/uploads/the-secrets-to-a-remarkable-community-involvement-program-640x302.png",
+          "caption": "Community Contribution"
+        },
+        "text": {
+          "headline": "Contribute to the Data Science Community",
+          "text": "Share your learnings and experiences with the broader data science community through blogs, tutorials, and open-source contributions."
+        }
+      }
+    ]
+  }
+  

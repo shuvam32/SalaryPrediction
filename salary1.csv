@@ -1,0 +1,293 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+29,Male,Bachelor's,Account Manager,2,600000
+25,Male,Bachelor's,Account Manager,2,600000
+26,Male,Bachelor's,Account Manager,2,600000
+25,Female,Bachelor's,Account Manager,2,600000
+27,Female,Bachelor's,Account Manager,2,600000
+28,Male,Bachelor's,Account Manager,3,750000
+27,Female,Master's,Account Manager,1,700000
+30,Male,Master's,Account Manager,4,1400000
+32,Male,Master's,Account Manager,6,1500000
+33,Male,Master's,Account Manager,7,1600000
+25,Male,Bachelor's,Accountant,1,350000
+26,Female,Bachelor's,Accountant,3,500000
+31,Female,Bachelor's,Accountant,4,550000
+28,Male,Bachelor's,Accountant,4,560000
+33,Female,Bachelor's,Accountant,7,800000
+40,Female,Bachelor's,Accountant,16,1500000
+43,Male,Bachelor's,Accountant,17,1500000
+45,Male,Bachelor's,Accountant,20,2200000
+30,Female,Master's,Accountant,3,450000
+37,Male,Master's,Accountant,9,1100000
+30,Female,Bachelor's,Blockchain Developer,8,1400000
+36,Male,Bachelor's,Blockchain Developer,14,2000000
+41,Male,Bachelor's,Blockchain Developer,18,2400000
+47,Male,Bachelor's,Blockchain Developer,25,3100000
+29,Male,Master's,Blockchain Developer,3,1000000
+34,Male,Master's,Blockchain Developer,8,1500000
+39,Male,Master's,Blockchain Developer,12,1900000
+41,Female,Master's,Blockchain Developer,15,2200000
+46,Female,Master's,Blockchain Developer,19,2600000
+47,Male,Master's,Blockchain Developer,20,2700000
+23,Male,Bachelor's,Business Analyst,1,400000
+25,Male,Bachelor's,Business Analyst,2,500000
+28,Male,Bachelor's,Business Analyst,3,600000
+30,Female,Bachelor's,Business Analyst,4,1200000
+29,Female,Bachelor's,Business Analyst,6,1200000
+34,Female,Bachelor's,Business Analyst,7,1400000
+36,Male,Bachelor's,Business Analyst,12,1200000
+42,Male,Bachelor's,Business Analyst,17,3000000
+33,Female,Master's,Business Analyst,7,1800000
+35,Male,Master's,Business Analyst,8,1600000
+37,Male,Master's,Business Analyst,9,1800000
+28,Male,Bachelor's,Business Intelligence Analyst,1,450000
+29,Female,Bachelor's,Business Intelligence Analyst,2,600000
+33,Male,Bachelor's,Business Intelligence Analyst,5,800000
+40,Male,Bachelor's,Business Intelligence Analyst,12,1200000
+33,Male,Master's,Business Intelligence Analyst,2,700000
+32,Male,Master's,Business Intelligence Analyst,5,950000
+38,Female,Master's,Business Intelligence Analyst,5,900000
+33,Male,Master's,Business Intelligence Analyst,6,900000
+36,Male,Master's,Business Intelligence Analyst,7,1050000
+44,Female,Master's,Business Intelligence Analyst,11,1400000
+30,Female,Bachelor's,Cloud Engineer,7,1400000
+31,Male,Bachelor's,Cloud Engineer,7,1400000
+39,Male,Bachelor's,Cloud Engineer,17,2700000
+45,Male,Bachelor's,Cloud Engineer,22,3400000
+29,Male,Master's,Cloud Engineer,3,1000000
+30,Male,Master's,Cloud Engineer,4,1100000
+33,Male,Master's,Cloud Engineer,4,1100000
+32,Female,Master's,Cloud Engineer,6,1300000
+42,Male,Master's,Cloud Engineer,13,2000000
+42,Female,Master's,Cloud Engineer,14,2100000
+27,Female,Bachelor's,Data Analyst,4,700000
+28,Female,Bachelor's,Data Analyst,5,800000
+28,Male,Bachelor's,Data Analyst,6,800000
+32,Female,Bachelor's,Data Analyst,9,1200000
+33,Male,Bachelor's,Data Analyst,9,1200000
+34,Male,Bachelor's,Data Analyst,10,1250000
+28,Female,Master's,Data Analyst,2,600000
+29,Male,Master's,Data Analyst,3,750000
+30,Male,Master's,Data Analyst,4,800000
+32,Female,Master's,Data Analyst,5,900000
+38,Male,Master's,Data Analyst,10,1500000
+26,Male,Bachelor's,Data Scientist,3,1100000
+30,Male,Bachelor's,Data Scientist,8,200000
+40,Female,Bachelor's,Data Scientist,17,3200000
+48,Male,Bachelor's,Data Scientist,25,4200000
+30,Female,Master's,Data Scientist,1,750000
+29,Male,Master's,Data Scientist,3,1400000
+33,Male,Master's,Data Scientist,5,1400000
+33,Male,Master's,Data Scientist,7,1800000
+42,Male,Master's,Data Scientist,16,2700000
+47,Female,Master's,Data Scientist,18,3400000
+25,Male,Bachelor's,Financial Analyst,1,400000
+25,Male,Bachelor's,Financial Analyst,2,500000
+35,Female,Bachelor's,Financial Analyst,8,1000000
+35,Male,Bachelor's,Financial Analyst,11,1300000
+40,Female,Bachelor's,Financial Analyst,15,1700000
+45,Male,Bachelor's,Financial Analyst,18,2100000
+30,Male,Master's,Financial Analyst,1,450000
+33,Female,Master's,Financial Analyst,5,1000000
+37,Male,Master's,Financial Analyst,7,1300000
+43,Female,Master's,Financial Analyst,15,2200000
+26,Male,Bachelor's,Financial Manager,1,650000
+26,Female,Bachelor's,Financial Manager,1,700000
+25,Male,Bachelor's,Financial Manager,2,750000
+28,Female,Bachelor's,Financial Manager,2,800000
+30,Male,Bachelor's,Financial Manager,3,850000
+27,Female,Bachelor's,Financial Manager,3,1000000
+30,Female,Bachelor's,Financial Manager,5,1200000
+30,Male,Master's,Financial Manager,2,850000
+33,Male,Master's,Financial Manager,4,1200000
+35,Female,Master's,Financial Manager,7,1500000
+23,Male,Bachelor's,Graphic Designer,0,350000
+29,Female,Bachelor's,Graphic Designer,3,550000
+31,Female,Bachelor's,Graphic Designer,6,850000
+41,Male,Bachelor's,Graphic Designer,18,2050000
+29,Male,Master's,Graphic Designer,3,700000
+35,Female,Master's,Graphic Designer,6,1000000
+38,Male,Master's,Graphic Designer,12,1600000
+41,Male,Master's,Graphic Designer,13,1700000
+43,Male,Master's,Graphic Designer,16,2000000
+47,Female,Master's,Graphic Designer,21,2500000
+23,Male,Bachelor's,HR Manager,1,500000
+29,Male,Bachelor's,HR Manager,6,1000000
+30,Male,Bachelor's,HR Manager,7,1050000
+34,Female,Bachelor's,HR Manager,11,1450000
+34,Male,Bachelor's,HR Manager,12,1550000
+35,Female,Bachelor's,HR Manager,13,1650000
+39,Male,Bachelor's,HR Manager,16,2000000
+28,Male,Master's,HR Manager,1,700000
+39,Female,Master's,HR Manager,13,2000000
+47,Male,Master's,HR Manager,19,2700000
+28,Male,Bachelor's,Interior Designer,5,700000
+33,Female,Bachelor's,Interior Designer,10,1200000
+38,Male,Bachelor's,Interior Designer,15,1700000
+48,Male,Bachelor's,Interior Designer,25,2700000
+33,Female,Master's,Interior Designer,5,900000
+35,Male,Master's,Interior Designer,9,1300000
+40,Male,Master's,Interior Designer,12,1600000
+39,Male,Master's,Interior Designer,12,1600000
+45,Male,Master's,Interior Designer,19,2300000
+47,Female,Master's,Interior Designer,20,2400000
+34,Female,Bachelor's,IOT Developer,11,1300000
+38,Male,Bachelor's,IOT Developer,16,1800000
+42,Male,Bachelor's,IOT Developer,19,2100000
+45,Male,Bachelor's,IOT Developer,22,2400000
+31,Female,Master's,IOT Developer,2,700000
+31,Male,Master's,IOT Developer,3,800000
+36,Female,Master's,IOT Developer,8,1200000
+39,Male,Master's,IOT Developer,10,1400000
+42,Male,Master's,IOT Developer,12,1600000
+43,Male,Master's,IOT Developer,17,2200000
+31,Female,Bachelor's,Marketing Analyst,9,1700000
+36,Male,Bachelor's,Marketing Analyst,13,2100000
+36,Male,Bachelor's,Marketing Analyst,13,2100000
+37,Female,Bachelor's,Marketing Analyst,14,2200000
+38,Male,Bachelor's,Marketing Analyst,16,2400000
+42,Male,Bachelor's,Marketing Analyst,20,2800000
+43,Female,Master's,Marketing Analyst,20,3200000
+47,Male,Master's,Marketing Analyst,24,3600000
+46,Female,Master's,Marketing Analyst,24,3600000
+47,Male,Master's,Marketing Analyst,25,3700000
+31,Female,Bachelor's,Marketing Manager,8,1500000
+41,Male,Bachelor's,Marketing Manager,19,2600000
+46,Male,Bachelor's,Marketing Manager,23,3000000
+31,Male,Master's,Marketing Manager,2,1300000
+32,Male,Master's,Marketing Manager,5,1600000
+32,Male,Master's,Marketing Manager,6,1700000
+35,Male,Master's,Marketing Manager,9,2000000
+45,Female,Master's,Marketing Manager,16,3000000
+43,Female,Master's,Marketing Manager,19,3300000
+47,Female,Master's,Marketing Manager,21,3500000
+26,Male,Bachelor's,ML Engineer,4,1200000
+37,Female,Bachelor's,ML Engineer,14,2200000
+45,Male,Bachelor's,ML Engineer,22,3000000
+45,Male,Bachelor's,ML Engineer,23,3100000
+31,Male,Master's,ML Engineer,5,1800000
+33,Male,Master's,ML Engineer,6,1900000
+40,Male,Master's,ML Engineer,13,2700000
+42,Female,Master's,ML Engineer,15,3000000
+46,Male,Master's,ML Engineer,18,3300000
+46,Female,Master's,ML Engineer,18,3300000
+32,Male,Bachelor's,Network Engineer,9,1800000
+38,Male,Bachelor's,Network Engineer,13,2200000
+36,Female,Bachelor's,Network Engineer,13,2200000
+39,Male,Bachelor's,Network Engineer,17,2600000
+32,Female,Master's,Network Engineer,5,1600000
+33,Male,Master's,Network Engineer,7,1800000
+35,Male,Master's,Network Engineer,7,1800000
+37,Male,Master's,Network Engineer,11,2200000
+39,Female,Master's,Network Engineer,11,2200000
+38,Male,Master's,Network Engineer,11,2200000
+26,Female,Bachelor's,Operations Analyst,4,800000
+30,Male,Bachelor's,Operations Analyst,7,1100000
+35,Male,Bachelor's,Operations Analyst,12,1600000
+45,Male,Bachelor's,Operations Analyst,22,2600000
+31,Female,Master's,Operations Analyst,4,1100000
+35,Male,Master's,Operations Analyst,8,1500000
+38,Male,Master's,Operations Analyst,10,1700000
+41,Female,Master's,Operations Analyst,15,2200000
+45,Male,Master's,Operations Analyst,16,2300000
+47,Male,Master's,Operations Analyst,18,2500000
+25,Male,Bachelor's,Operations Manager,2,800000
+26,Male,Bachelor's,Operations Manager,3,900000
+27,Male,Bachelor's,Operations Manager,5,1100000
+36,Female,Bachelor's,Operations Manager,13,1900000
+28,Male,Master's,Operations Manager,2,1000000
+30,Female,Master's,Operations Manager,4,1200000
+33,Female,Master's,Operations Manager,4,1200000
+39,Male,Master's,Operations Manager,13,2100000
+41,Male,Master's,Operations Manager,14,2200000
+45,Male,Master's,Operations Manager,19,2700000
+37,Male,Bachelor's,Product Designer,14,1800000
+42,Male,Bachelor's,Product Designer,19,2300000
+43,Female,Bachelor's,Product Designer,21,2500000
+27,Male,Master's,Product Designer,0,700000
+27,Female,Master's,Product Designer,0,700000
+31,Male,Master's,Product Designer,5,1500000
+33,Male,Master's,Product Designer,6,1600000
+37,Female,Master's,Product Designer,9,2100000
+39,Male,Master's,Product Designer,12,2400000
+42,Male,Master's,Product Designer,14,2600000
+24,Female,Bachelor's,Product Manager,1,800000
+27,Male,Bachelor's,Product Manager,5,1200000
+47,Male,Bachelor's,Product Manager,25,3200000
+32,Male,Master's,Product Manager,6,1800000
+36,Female,Master's,Product Manager,10,2200000
+38,Male,Master's,Product Manager,11,2300000
+43,Male,Master's,Product Manager,15,2700000
+43,Female,Master's,Product Manager,16,2800000
+44,Male,Master's,Product Manager,18,3000000
+46,Male,Master's,Product Manager,20,3200000
+23,Male,Bachelor's,Sales Executive,1,450000
+32,Male,Bachelor's,Sales Executive,9,1250000
+42,Male,Bachelor's,Sales Executive,20,2300000
+47,Female,Bachelor's,Sales Executive,25,2800000
+28,Female,Master's,Sales Executive,0,500000
+33,Male,Master's,Sales Executive,7,1300000
+36,Female,Master's,Sales Executive,9,1500000
+41,Male,Master's,Sales Executive,15,2100000
+44,Male,Master's,Sales Executive,18,2400000
+47,Male,Master's,Sales Executive,21,2700000
+32,Female,Bachelor's,Sales Manager,10,1600000
+38,Male,Bachelor's,Sales Manager,15,2100000
+39,Male,Bachelor's,Sales Manager,16,2200000
+46,Male,Bachelor's,Sales Manager,24,3000000
+36,Female,Master's,Sales Manager,8,1800000
+38,Male,Master's,Sales Manager,11,2100000
+40,Male,Master's,Sales Manager,14,2400000
+43,Female,Master's,Sales Manager,17,2700000
+44,Male,Master's,Sales Manager,17,2700000
+47,Male,Master's,Sales Manager,19,2900000
+26,Male,Bachelor's,Software Developer,4,950000
+28,Female,Bachelor's,Software Developer,5,1050000
+36,Male,Bachelor's,Software Developer,14,1950000
+32,Male,Master's,Software Developer,4,1200000
+30,Female,Master's,Software Developer,4,1200000
+30,Male,Master's,Software Developer,4,1200000
+33,Male,Master's,Software Developer,5,1300000
+38,Female,Master's,Software Developer,10,1800000
+41,Male,Master's,Software Developer,12,2000000
+46,Male,Master's,Software Developer,17,2500000
+28,Female,Bachelor's,Software Engineer,6,1200000
+38,Male,Bachelor's,Software Engineer,16,2200000
+43,Male,Bachelor's,Software Engineer,20,2600000
+42,Male,Bachelor's,Software Engineer,20,2600000
+30,Male,Master's,Software Engineer,1,1000000
+30,Female,Master's,Software Engineer,4,1300000
+40,Male,Master's,Software Engineer,11,2000000
+39,Male,Master's,Software Engineer,11,2000000
+44,Male,Master's,Software Engineer,16,2500000
+44,Female,Master's,Software Engineer,16,2500000
+33,Female,Bachelor's,Supply Chain Manager,11,2000000
+36,Male,Bachelor's,Supply Chain Manager,14,2300000
+38,Male,Bachelor's,Supply Chain Manager,15,2400000
+40,Male,Bachelor's,Supply Chain Manager,17,2600000
+27,Female,Master's,Supply Chain Manager,1,1200000
+27,Male,Master's,Supply Chain Manager,1,1200000
+33,Male,Master's,Supply Chain Manager,4,1600000
+37,Male,Master's,Supply Chain Manager,9,2100000
+45,Female,Master's,Supply Chain Manager,18,3000000
+47,Male,Master's,Supply Chain Manager,21,3400000
+28,Female,Bachelor's,UX Designer,5,1000000
+33,Male,Bachelor's,UX Designer,10,1500000
+42,Male,Bachelor's,UX Designer,19,2600000
+28,Female,Master's,UX Designer,0,750000
+27,Male,Master's,UX Designer,1,850000
+31,Male,Master's,UX Designer,5,1300000
+34,Female,Master's,UX Designer,8,1600000
+38,Female,Master's,UX Designer,12,2000000
+39,Male,Master's,UX Designer,13,2100000
+43,Male,Master's,UX Designer,17,2500000
+29,Male,Bachelor's,Web Developer,7,1200000
+32,Male,Bachelor's,Web Developer,9,1400000
+40,Male,Bachelor's,Web Developer,17,2200000
+44,Female,Bachelor's,Web Developer,20,2500000
+29,Female,Master's,Web Developer,0,800000
+27,Male,Master's,Web Developer,1,900000
+32,Female,Master's,Web Developer,5,1300000
+34,Male,Master's,Web Developer,8,1600000
+37,Male,Master's,Web Developer,11,1900000
+42,Male,Master's,Web Developer,16,2400000
