@@ -1,1 +1,2 @@
 # SalaryPrediction
+This Project aims to navigate the complex world of job hunting and career development. With a comprehensive set of features, including social media integration  and career roadmaps, it empower users to make informed decisions about their professional journey. This system utilizes state-of-the-art machine learning models to provide accurate salary predictions for a wide range of professions.
